@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<item android:id="@+id/pretrazi"
+        android:title="Pretraži zapise"/> -->
+
+    <item
+        android:id="@+id/o_aplikaciji"
+        android:title="@string/o_aplikaciji" />
+
+    <item android:id="@+id/o_nama"
+        android:title="@string/o_nama" />
+
+    <item
+        android:id="@+id/popis_literature"
+        android:title="@string/popis_literature" />
+
+    <item android:id="@+id/file"
+        android:title="Jezik">
+        <menu>
+
+            <item
+                android:id="@+id/language_hr"
+                android:title="Hrvatski" />
+            <item
+                android:id="@+id/language_en"
+                android:title="English" />
+            <item
+                android:id="@+id/language_pl"
+                android:title="Polski" />
+
+        </menu>
+    </item>
+
+
+</menu>

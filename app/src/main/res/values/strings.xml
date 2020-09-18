@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Glagopedija</string>
+    <string name="jezik_aplikacije">hr</string>
+    <string name="JEZICI">https://www.ffos.unios.hr/projekti/glagopedija/API/v1/jezici</string>
+    <string name="REST_URL_GRUPE">https://www.ffos.unios.hr/projekti/glagopedija/API/v1/grupe?jezik=hr</string>
+    <string name="REST_URL_KATEGORIJA">https://www.ffos.unios.hr/projekti/glagopedija/API/v1/kategorije?</string> <!-- dovršiti url -->
+    <string name="REST_URL_ZAPISA">https://www.ffos.unios.hr/projekti/glagopedija/API/v1/zapisi?</string> <!-- dovršiti url -->
+    <string name="REST_URL_ZAPIS">https://www.ffos.unios.hr/projekti/glagopedija/API/v1/zapis?</string> <!-- dovršiti url -->
+    <string name="LITERATURA">https://www.ffos.unios.hr/projekti/glagopedija/API/v1/popisliterature</string>
+    <string name="PORUKA">https://www.ffos.unios.hr/projekti/glagopedija/API/v1/poruka?</string> <!-- dovršiti url -->
+    <string name="PORUKE">https://www.ffos.unios.hr/projekti/glagopedija/API/v1/poruke?jezik=hr</string>
+
+    <string name="naziv">Naziv</string>
+    <string name="mjesto">Mjesto</string>
+    <string name="godina">Godina</string>
+    <string name="velicina">Veličina</string>
+    <string name="jezik">Jezik</string>
+    <string name="pismo">Pismo</string>
+    <string name="sadrzaj1">Sadržaj</string>
+    <string name="zanimljivosti">Zanimljivosti</string>
+    <string name="natrag">Natrag</string>
+
+    <string name="toolbar_title">Glagopedija</string>
+    <string name="o_aplikaciji">O aplikaciji</string>
+    <string name="o_nama">O nama</string>
+    <string name="popis_literature">Popis literature i izvora</string>
+
+    <!-- O projektu-->
+    <string name="about">Projekt "Glagopedija"</string>
+    <string name="opis">Na temelju plana provedbe aktivnosti u okviru Programskih ugovora, za cilj Unapređenje ishoda učenja,
+        u akademskoj je godini 2014./2015. pokrenut projekt pod nazivom "Glagoljski spomenici kroz stoljeća hrvatske pismenosti",
+        čiji je zadatak bio kreiranje korisničkoga programa / mobilne aplikacije Glagopedije, sadržajem usmjerene na popis i opis
+        najvažnijih hrvatskoglagoljskih spomenika. Iako osnovicu korpusa sačinjava srednjovjekovna spomenička baština: od hrvatskoglagoljskih
+        epigrafskih spomenika do tiskopisa, valja napomenuti da smo ga proširili novovjekovnom glagoljaškom produkcijom, uključujući glagoljsku
+        knjigu XIX. i XX. stoljeća, odnosno novije i najnovije povijesti hrvatskoga glagolizma. Projektni je tim, djelujući pod vodstvom
+        prof. dr. sc. Milice Lukić, na aktualan način nastojao prezentirati paleokroatističke znanstveno-nastavne sadržaje, čineći ih usvojivima
+        u visokoškolskoj nastavnoj praksi, a posredno i na svim ostalim obrazovnim razinama. Spomenimo i to da su novi mediji podatno tlo za popularizaciju
+        počesto nekomunikativnih znanstvenih, u ovom slučaju filoloških, sadržaja, koji su – kada je o glagoljici riječ – istovremeno uključeni u
+        afirmaciju hrvatske kulturne baštine, neotuđive sastavnice našega kolektivnog (nacionalnog) identiteta. Tom mišlju vođeni, u sadržaj smo
+        Glagopedije uvrštavali čak i one spomenike koji izlaze iz okvira "službenoga" glagoljaškog teritorija (Istre, Kvarnera, Hrvatskoga primorja,
+        Dalmacije, Like i Krbave), bilo da su vezani za područja nekadašnje Zagrebačke biskupije ili pak donje međurječje Drave i Save, potvrđujući
+        tako da je i među Slavoncima bilo glagoljaša te da se u proces poučavanja najstarijega razdoblja hrvatske književno-jezične povijesti zasigurno
+        može uključiti načelo zavičajnosti.</string>
+
+    <!--Cilj projekta-->
+    <string name="cilj">Cilj projekta</string>
+    <string name="opis2">Cilj je ovoga projekta, među ostalima, djelovati na percepciju i stavove naših studenata, kolega profesora, cjelokupne kulturne
+        javnosti i naših građana o važnosti poznavanja osnova glagoljičnoga pisma i glagoljskih spomenika stoga što su upisani u temelje hrvatskoga kulturnog
+        i nacionalnog identiteta. Valja podsjetiti na činjenicu da je Ministarstvo kulture Republike Hrvatske Umijeće čitanja, pisanja i tiskanja glagoljice
+        2014. godine imenovalo nematerijalnom kulturnom baštinom te da je 2019. Hrvatski sabor dan 22. veljače, inače datum objelodanjivanja hrvatskoglagoljskoga
+        Prvotiska (1483), proglasio Danom hrvatske glagoljice i glagoljaštva. Projekt osmišljen u okviru Katedre za hrvatsku jezičnu povijest i hrvatsku dijalektologiju
+        Filozofskoga fakulteta Sveučilišta J. J. Strossmayera u Osijeku djelovao je sve do 2018. godine, u međuvremenu proširivši polazišni korpus obradom najvažnijih
+        hrvatskoćiriličnih spomenika, uz tehničko usavršavanje korisničkoga programa, a najzad i uspostavu suradnje s profesorima i studentima Odsjeka za informacijske
+        znanosti Filozofskoga fakulteta u Osijeku te poljskim kroatistima Filološkoga fakulteta Šleskoga sveučilišta u Katowicama, koji su zaslužni za prijevod Glagopedije
+        na poljski jezik. Ulazeći u svojevrsnu završnicu, Projekt je 2018. godine nagrađen godišnjom Državnom nagradom za znanost Ministarstva znanosti i obrazovanja
+        Republike Hrvatske (u kategoriji popularizacije i promidžbe znanosti). Prof. dr. sc. Milica Lukić i dr. sc. Vera Blažević Krezić tom su prigodom nagrađene i za
+        popularizacijski nastavni projekt Glagoljaška večer(a) IV. – Gastronomia Cyrillomethodianska.</string>
+
+    <!-- sadržaj glagopedije-->
+    <string name="sadrzaj">Sadržaj glagopedije</string>
+    <string name="opis3">Glagoljična pismovna sastavnica Glagopedije zastupljena je s 220 spomenika, dok ćirilični korpus broji 70-ak spomenika. Svi oni pokazuju
+        kontinuitet hrvatske pismovne kulture utemeljene na ćirilometodskome djelu: od XI. do XX. stoljeća. Svaki je spomenik opisan kroz svoju tablično oblikovanu
+        "osobnu iskaznicu" koja nudi sedam podataka o njemu: a) naziv, b) vrijeme nastanka, c) pismo, d) jezik, e) sadržaj, f) veličina, g) zanimljivosti vezane za pojedini
+        spomenik. Tablice su raspoređene po stoljećima, a svako je stoljeće reprezentirano odabranim slikovnim materijalom koji je u stručnoj i kulturnoj javnosti prihvaćen
+        kao pismovni simbol toga razdoblja.</string>
+
+    <!--komu je namijenjena-->
+    <string name="namijenjenost">Komu je glagopedija namijenjena?</string>
+    <string name="opis4">Zainteresirani korisnik sadržaju ove aplikacije pristupa bez ograničenja jer se ona nalazi u otvorenu pristupu. Temeljne informacije o glagoljskim
+        i ćirilskim spomenicima prikuplja na brz i učinkovit način, jednostavnim pretraživanjem njezina sadržaja koji se nadaje kao popis i opis najvažnijih (reprezentativnih)
+        spomenika: simbolično govoreći od Bašćanske ploče do Parčićeva misala (1893), odnosno od X/XI. st. do kraja XIX. i početka XX. st. Preostaje istaknuti da je riječ o
+        nastavnom projektu koji svoje opravdanje i svoju funkcionalnost pronalazi među studentskom populacijom, i to među studentima humanističkih i društvenih studija. Ova
+        virtualna glagoljsko-ćirilska enciklopedija može poslužiti kao materijal za pripremu sveučilišnih ispita, projekata, završnih i diplomskih radova. Ćirilometodskim
+        pismima predočenih spomenika, razasutih po hrvatskim krajevima i minulim stoljećima, ovom aplikacijom biva udahnut nov život, i to prema Konstantinovoj, evanđeoskoj
+        maksimi: "Novo vino u nove mijehove" (usp. Bratulić 1998: 13), što s druge strane znači da tradirana izjava o njezinu kabinetskom životu, zapravo životarenju na
+        stolovima filologa, uporabom ovoga programa biva stubokom revidirana. Informacijsko je doba humanističke znanosti stavilo na kušnju, ponajprije studij nacionalne
+        filologije. U njezinu je okrilju hrvatsko glagoljaštvo danas gotovo pa zasužnjeno, što zbog nezainteresiranosti mlađega naraštaja, što zbog narušavanja opstojnosti
+        kroatistike u njezinu slavističkome okružju, što zbog neprevladanih i zastarjelih ideoloških, političkih, filoloških i inih koncepata znanstvene zajednice i kulturne
+        javnosti, što zbog pismovne barijere koju su, paradoksalno, baš u u informacijskome dobu prema svojemu sadržaju podignule glagoljica i ćirilica. Na tim spoznajama počiva
+        drugi život (Second Life) hrvatskih glagoljičnih, ćiriličnih (u budućnosti i latiničnih) spomenika u demokratičnome, inovativnome, ali i izazovnome mediju Interneta. A
+        da je Glagopedija pronašla svoje recipijente pokazuju podaci o njezinu preuzimanju u različitim europskim i izvaneuropskim zemljama, izvrsna ocjena kojom su ju ocijenili
+        korisnici, ali i zainteresiranost šire znanstvene zajednice za nju. U tom smislu, održano je i pozvano predavanje o aplikaciji u okviru trećega popularizacijskoga simpozija
+        kulturne i kreativne industrije – Kreativna riznica 2017. na Ekonomskome fakultetu u Osijeku te je uspostavljena suradnja s Institutom za slavensku filologiju Šleskoga
+        sveučilišta u Katowicama koja se tiče prevođenja sadržaja aplikacije na poljski jezik.</string>
+
+    <!-- Menu O Nama -->
+    <string name="naslov_onama">Projektni tim</string>
+    <string name="voditelj">projekt "Glagoljički spomenici kroz stoljeća hrvatske pismenosti"</string>
+    <string name="voditelj2">prof. dr. sc. Milica Lukić</string>
+    <string name="tim">Tim "4M"</string>
+    <string name="tim2">Rea Čevapović \n Hajdi Ivanović \n Sunčica Kojić \n Borna Ungar</string>
+    <!-- Menu O Aplikaciji -->
+    <string name="oa_projekt">Na temelju plana provedbe aktivnosti u okviru Programskih ugovora, za cilj Unapređenje ishoda učenja,
+        u akademskoj je godini 2014./2015. pokrenut projekt pod nazivom "Glagoljski spomenici kroz stoljeća hrvatske pismenosti",
+        čiji je zadatak bio kreiranje korisničkoga programa / mobilne aplikacije Glagopedije, sadržajem usmjerene na popis i opis
+        najvažnijih hrvatskoglagoljskih spomenika. Iako osnovicu korpusa sačinjava srednjovjekovna spomenička baština: od hrvatskoglagoljskih
+        epigrafskih spomenika do tiskopisa, valja napomenuti da smo ga proširili novovjekovnom glagoljaškom produkcijom, uključujući glagoljsku
+        knjigu XIX. i XX. stoljeća, odnosno novije i najnovije povijesti hrvatskoga glagolizma. Projektni je tim, djelujući pod vodstvom
+        prof. dr. sc. Milice Lukić, na aktualan način nastojao prezentirati paleokroatističke znanstveno-nastavne sadržaje, čineći ih usvojivima
+        u visokoškolskoj nastavnoj praksi, a posredno i na svim ostalim obrazovnim razinama. Spomenimo i to da su novi mediji podatno tlo za
+        popularizaciju počesto nekomunikativnih znanstvenih, u ovom slučaju filoloških, sadržaja, koji su – kada je o glagoljici riječ – istovremeno
+        uključeni u afirmaciju hrvatske kulturne baštine, neotuđive sastavnice našega kolektivnog (nacionalnog) identiteta. Tom mišlju vođeni, u
+        sadržaj smo Glagopedije uvrštavali čak i one spomenike koji izlaze iz okvira "službenoga" glagoljaškog teritorija (Istre, Kvarnera,
+        Hrvatskoga primorja, Dalmacije, Like i Krbave), bilo da su vezani za područja nekadašnje Zagrebačke biskupije ili pak donje međurječje Drave
+        i Save, potvrđujući tako da je i među Slavoncima bilo glagoljaša te da se u proces poučavanja najstarijega razdoblja hrvatske književno-jezične
+        povijesti zasigurno može uključiti načelo zavičajnosti.Tom mišlju vođeni, u
+        sadržaj smo Glagopedije uvrštavali čak i one spomenike koji izlaze iz okvira "službenoga" glagoljaškog teritorija (Istre, Kvarnera,
+        Hrvatskoga primorja, Dalmacije, Like i Krbave), bilo da su vezani za područja nekadašnje Zagrebačke biskupije ili pak donje međurječje Drave
+        i Save, potvrđujući tako da je i među Slavoncima bilo glagoljaša te da se u proces poučavanja najstarijega razdoblja hrvatske književno-jezične
+        povijesti zasigurno može uključiti načelo zavičajnosti.</string>
+
+    <string name="oa_cilj">Cilj je ovoga projekta, među ostalima, djelovati na percepciju i stavove naših studenata, kolega profesora, cjelokupne kulturne
+        javnosti i naših građana o važnosti poznavanja osnova glagoljičnoga pisma i glagoljskih spomenika stoga što su upisani u temelje hrvatskoga kulturnog
+        i nacionalnog identiteta. Valja podsjetiti na činjenicu da je Ministarstvo kulture Republike Hrvatske Umijeće čitanja, pisanja i tiskanja glagoljice
+        2014. godine imenovalo nematerijalnom kulturnom baštinom te da je 2019. Hrvatski sabor dan 22. veljače, inače datum objelodanjivanja hrvatskoglagoljskoga
+        Prvotiska (1483), proglasio Danom hrvatske glagoljice i glagoljaštva. Projekt osmišljen u okviru Katedre za hrvatsku jezičnu povijest i hrvatsku dijalektologiju
+        Filozofskoga fakulteta Sveučilišta J. J. Strossmayera u Osijeku djelovao je sve do 2018. godine, u međuvremenu proširivši polazišni korpus obradom najvažnijih
+        hrvatskoćiriličnih spomenika, uz tehničko usavršavanje korisničkoga programa, a najzad i uspostavu suradnje s profesorima i studentima Odsjeka za informacijske
+        znanosti Filozofskoga fakulteta u Osijeku te poljskim kroatistima Filološkoga fakulteta Šleskoga sveučilišta u Katowicama, koji su zaslužni za prijevod Glagopedije
+        na poljski jezik. Ulazeći u svojevrsnu završnicu, Projekt je 2018. godine nagrađen godišnjom Državnom nagradom za znanost Ministarstva znanosti i obrazovanja
+        Republike Hrvatske (u kategoriji popularizacije i promidžbe znanosti). Prof. dr. sc. Milica Lukić i dr. sc. Vera Blažević Krezić tom su prigodom nagrađene i za
+        popularizacijski nastavni projekt Glagoljaška večer(a) IV. – Gastronomia Cyrillomethodianska.</string>
+
+    <string name="oa_sadrzaj">Glagoljična pismovna sastavnica Glagopedije zastupljena je s 220 spomenika, dok ćirilični korpus broji 70-ak spomenika.
+        Svi oni pokazuju kontinuitet hrvatske pismovne kulture utemeljene na ćirilometodskome djelu: od XI. do XX. stoljeća. Svaki je spomenik opisan
+        kroz svoju tablično oblikovanu "osobnu iskaznicu" koja nudi sedam podataka o njemu: a) naziv, b) vrijeme nastanka, c) pismo, d) jezik, e) sadržaj,
+        f) veličina, g) zanimljivosti vezane za pojedini spomenik. Tablice su raspoređene po stoljećima, a svako je stoljeće reprezentirano odabranim slikovnim
+        materijalom koji je u stručnoj i kulturnoj javnosti prihvaćen kao pismovni simbol toga razdoblja.</string>
+
+</resources>
