@@ -129,10 +129,10 @@ public class ActivityDetalji extends AppCompatActivity {
                 intent = new Intent(this, ONama.class);
                 startActivity(intent);
                 return true;
-            /*case R.id.pretrazi:
+            case R.id.pretrazi:
                 intent = new Intent(this, ActivityPretraziZapise.class);
                 startActivity(intent);
-                return true;*/
+                return true;
             case R.id.popis_literature:
                 intent = new Intent(this, PopisLiterature.class);
                 startActivity(intent);

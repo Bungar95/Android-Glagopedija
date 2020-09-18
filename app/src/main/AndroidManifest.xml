@@ -53,9 +53,9 @@
         <activity
             android:name="ffos.tim4m.glagopedija.Menu.PopisLiterature"
             android:parentActivityName="ffos.tim4m.glagopedija.Activity.ActivityGrupe" />
-        <!--<activity
+        <activity
             android:name="ffos.tim4m.glagopedija.Activity.ActivityPretraziZapise"
-            android:parentActivityName="ffos.tim4m.glagopedija.Activity.ActivityGrupe"/>-->
+            android:parentActivityName="ffos.tim4m.glagopedija.Activity.ActivityGrupe"/>
     </application>
 
 </manifest>
