@@ -62,7 +62,7 @@ public class ActivityPretraziZapise extends AppCompatActivity implements Adapter
 
         SearchView searchView = (SearchView) findViewById(R.id.searchView);
 
-        searchView.setQueryHint("Unesite barem 3 slova");
+        searchView.setQueryHint("Unesite min. 3 slova (npr. zak)");
         searchView.setSubmitButtonEnabled(true);
         searchView.setIconifiedByDefault(false);
 
